@@ -33,3 +33,23 @@
     color: blueviolet;
 }
 
+table{
+    border-collapse: collapse;
+    margin: auto;
+    border: 1px solid rgb(68, 38, 202);
+}
+
+td, th{
+    border: 1px solid rgb(68, 38, 202);
+    padding: 10px;
+    text-align: center;
+}
+
+tr:nth-child(odd){
+    background-color:bisque
+}
+
+tr:nth-child(even){
+    background-color:burlywood;
+}
+
