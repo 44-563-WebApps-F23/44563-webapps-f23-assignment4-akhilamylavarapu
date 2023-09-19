@@ -22,7 +22,7 @@
 }
 
 .name:hover {
-    text-shadow: 2px 2px 4px rgba(69, 69, 69, 0.7);
+    text-shadow: 4px 4px 4px rgb(30, 63, 255);;
     border: 2px solid #215ed8; 
 }
 
