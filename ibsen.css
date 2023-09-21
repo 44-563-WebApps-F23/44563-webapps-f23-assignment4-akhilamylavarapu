@@ -59,7 +59,6 @@ tr:nth-child(even){
 }
 
 ul.navbar-horizontal {
-    /* remove these */
     list-style-type: none;
     margin: 0;
     padding: 0;
